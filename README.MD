@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
  
  
- INSTRUCTIONS FOR RUNNING CODE
+ INSTRUCTIONS FOR RUNNING CODE FOR FinalProj_newfootage.py
 (unable to ship code without user manually altering the following code)
 
 DIRECTIONS START
